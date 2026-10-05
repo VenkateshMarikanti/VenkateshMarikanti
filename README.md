@@ -1,5 +1,5 @@
 # 💫 About Me:
-Final-year B.Tech Computer Science student with hands-on experience in Android development, machine learning, and Linux system<br>administration. Holds 3 industry certifications. Strong team player passionate about building scalable, user-focused applications and<br>solving real-world problems.
+B.Tech Computer Science and Engineering graduate with hands-on training in SAP ABAP and a strong foundation in programming, database concepts, and software development. Familiar with developing ABAP programs and working with SAP data and database operations. Currently building knowledge in ABAP on S/4HANA. RHCSA certified, with strong analytical, problem-solving, and communication skills, seeking an entry-level opportunity to begin a career in SAP ABAP.
 
 
 ## 🌐 Socials:
